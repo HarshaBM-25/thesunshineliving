@@ -3,7 +3,7 @@
 **The Sunshine Living** is a hotel management website built using PHP, MySQL, JavaScript, and HTML/CSS. It provides a complete booking platform for guests and an admin dashboard for hotel management.
 
 ---
-**Demo link** - http://thesunshineliving.42web.io
+**Preview link** - http://thesunshineliving.42web.io
 ## 🌟 Features
 
 ### 🔐 Authentication
