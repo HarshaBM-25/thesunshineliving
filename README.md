@@ -14,7 +14,7 @@
 - View available rooms (with image, price, type, status)
 - Book rooms with UPI ID payment simulation
 - Dashboard with:
-  - Profile (editable)
+  - Profile 
   - Current bookings
   - Logout
 
